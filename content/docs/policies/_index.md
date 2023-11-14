@@ -1,8 +1,8 @@
 ---
-title: Folder
+title: Policies
 type: docs
-prev: docs/first-page
-next: docs/folder/leaf
+prev: docs/insurance
+next: docs/policies/equity
 sidebar:
   open: true
 ---
