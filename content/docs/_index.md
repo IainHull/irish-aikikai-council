@@ -1,6 +1,6 @@
 ---
 title: Documentation
-next: first-page
+next: constitution
 ---
 
 All of the IAC documentation is publicly available here.
